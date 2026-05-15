@@ -16,7 +16,7 @@ Contains various scripts demonstrating advanced array methods (`filter`, `map`, 
 - **`movieStreamingOps.js`**: Movie ratings and filtering.
 - **`bankTransactionOps.js`**: Banking transaction logic.
 
-### Day 4: ES6 Features & Async Logic
+### Day 4:Features & Async Logic
 Located in `week-2/day-4/`
 - **`classesExample1.js` & `classesExample2.js`**: Object-oriented JavaScript using ES6 Classes.
 - **`shallowCopy.js`**: Demonstrating shallow vs deep copies.
